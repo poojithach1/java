@@ -19,7 +19,6 @@ public class Main {
         System.out.println("min value in array is : "+findMinNumber(myArray));
         System.out.println("my int reversed array = "+Arrays.toString(reversed));
         System.out.println("my int sorted array = "+Arrays.toString(sorted));
-
     }
 
     //it is for different count integers
